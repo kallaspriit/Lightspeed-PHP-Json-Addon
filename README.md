@@ -5,6 +5,8 @@ Lightspeed-PHP JsonResponse addon
 
 **[LIGHTSPEED-PHP](http://lightspeed-php.com) IS A MINIMALISTIC AND FAST PHP FRAMEWORK** aiming to provide basic structure that helps you build your applications faster and more efficiently on solid architecture. It's designed to be small, fast, easy to understand and extend.
 
+Lightspeed-PHP [Github project](https://github.com/kallaspriit/Lightspeed-PHP) | [Homepage](http://lightspeed-php.com)
+
 
 How to install
 --------------
