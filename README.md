@@ -10,7 +10,15 @@ Lightspeed-PHP [Github project](https://github.com/kallaspriit/Lightspeed-PHP) |
 
 How to install
 --------------
-Soon..
+Simply download the archive and unpack it to the root directory of your project. Creates a "json" directory under "library".
+
+Make sure your **application/Autoload.php** contains a rule to autoload the JsonResponse class when needed.
+
+```
+else if ($className == 'JsonResponse') {
+	require_once LIBRARY_PATH.'/json/JsonResponse.php';
+}
+```
 
 
 How to use it
